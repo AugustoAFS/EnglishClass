@@ -92,3 +92,4 @@ C:\Users\augus\OneDrive\Desktop\EnglishClass\EnglishClass\obj\Debug\net8.0\Engli
 C:\Users\augus\OneDrive\Desktop\EnglishClass\EnglishClass\obj\Debug\net8.0\EnglishClass.genruntimeconfig.cache
 C:\Users\augus\OneDrive\Desktop\EnglishClass\EnglishClass\obj\Debug\net8.0\ref\EnglishClass.dll
 C:\Users\augus\OneDrive\Desktop\EnglishClass\EnglishClass\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\augus\OneDrive\Desktop\EnglishClass\EnglishClass\obj\Debug\net8.0\EnglishClass.sourcelink.json

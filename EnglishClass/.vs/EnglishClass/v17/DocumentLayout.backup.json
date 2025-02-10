@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\services\\auth\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:services\\auth\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\services\\userservice\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:services\\userservice\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,22 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 298,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:58:59.226Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -61,66 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthUserService.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\Auth\\AuthUserService.cs",
-              "RelativeDocumentMoniker": "services\\Auth\\AuthUserService.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\Auth\\AuthUserService.cs",
-              "RelativeToolTip": "services\\Auth\\AuthUserService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAArwCIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:46:36.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T14:01:35.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\UserService.cs",
-              "RelativeDocumentMoniker": "services\\UserService\\UserService.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\UserService.cs",
-              "RelativeToolTip": "services\\UserService\\UserService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:57:38.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\controllers\\AuthController.cs",
-              "RelativeToolTip": "controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:41:58.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserInterface.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\IUserInterface.cs",
-              "RelativeDocumentMoniker": "services\\UserService\\IUserInterface.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\IUserInterface.cs",
-              "RelativeToolTip": "services\\UserService\\IUserInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T11:46:17.587Z",
+              "WhenOpened": "2025-02-07T15:48:40.861Z",
               "EditorCaption": ""
             }
           ]

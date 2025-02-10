@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|c:\\users\\augus\\onedrive\\desktop\\englishclass\\englishclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F1DE70A1-1776-4AC3-B113-8CE26F4CF956}|EnglishClass.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\services\\UserService\\UserService.cs",
+              "RelativeToolTip": "services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:55:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\EnglishClass\\EnglishClass\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
